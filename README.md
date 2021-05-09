@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Subhashponnuri
 - 👀 I’m interested in analysing the data 
 - 🌱 I’m currently learning data analytics 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analyst internship
 - 📫 How to reach me ponnurisubhash@gmail.com
 
 <!---
